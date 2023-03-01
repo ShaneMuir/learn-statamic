@@ -1,0 +1,5 @@
+title: 'Header Navigation'
+collections:
+  - news
+  - pages
+root: true
