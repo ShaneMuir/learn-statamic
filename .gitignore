@@ -14,5 +14,5 @@ npm-debug.log
 yarn-error.log
 .DS_Store
 .idea
-users/
-public/assets/
+#users/
+#public/assets/
