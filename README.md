@@ -20,7 +20,7 @@ My first project built with statamic following along with [this tutorial](https:
 The overall project will be a landing page based app which will be CMS based 
 so the site owner can create multiple landing pages which are content managed.
 The project will have blogging functionality with custom taxonomy filtering, ability to search content, custom navigations,
-handle displaying of multiple images in a slider, custom-built content blocks and also custom-built addons.
+handle displaying images with glide, custom-built content blocks (bard fields) and also custom-built tags.
 
 [//]: # (## Contributing)
 
